@@ -1,2 +1,3 @@
 # AWS-foudations-labs
-A complete collection of AWS Foundations Labs, including detailed steps, commands, and screenshots for each lab.œ
+Your guide to AWS Foundations Labs: learn AWS concepts with clear steps and screenshots for every lab.
+
